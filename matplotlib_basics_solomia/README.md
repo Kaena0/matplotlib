@@ -43,7 +43,7 @@ import numpy as np
 plt.plot([1, 2, 4, 8])
 plt.show()
 ```
-![Графік plot](./screenshots/plt.plot.png)
+![Графік plot](./matplotlib_basics_solomia/screenshots/plt.plot.png)
 
 
 ---
@@ -76,7 +76,8 @@ plt.plot(y.mean().repeat(x.max()+1), "--")
 plt.show()
 ```
 
-![Графік x та y](./screenshots/xy.png)
+![Графік x та y](./matplotlib_basics_solomia/screenshots/xy.png)
+
 
 
 ---
@@ -89,7 +90,7 @@ plt.show()
 plt.hist(y)
 plt.show()
 ```
-![Гістограма](./screenshots/histogram.png)
+![Гістограма](./matplotlib_basics_solomia/screenshots/histogram.png)
 
 
 ---
@@ -116,7 +117,7 @@ plt.legend()
 plt.show()
 ```
 
-![Візуалізація](./screenshots/visualization.png)
+![Візуалізація](./matplotlib_basics_solomia/screenshots/visualization.png)
 
 
 
