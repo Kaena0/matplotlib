@@ -76,7 +76,7 @@ plt.plot(y.mean().repeat(x.max()+1), "--")
 plt.show()
 ```
 
-![Графік x та y](./screenshots/xiy.png)
+![Графік x та y](./screenshots/xy.png)
 
 
 ---
@@ -116,7 +116,8 @@ plt.legend()
 plt.show()
 ```
 
-![Візуалізація](./screenshots/візуалізація.png)
+![Візуалізація](./screenshots/visualization.png)
+
 
 
 ---
