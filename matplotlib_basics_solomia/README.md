@@ -43,7 +43,7 @@ import numpy as np
 plt.plot([1, 2, 4, 8])
 plt.show()
 ```
-![Графік plot](screenshots/plt.plot.png)
+![Графік plot](https://github.com/Kaena0/matplotlib/blob/main/screenshots/plt.plot.png?raw=true)
 
 
 ---
