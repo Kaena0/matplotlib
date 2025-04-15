@@ -76,7 +76,7 @@ plt.plot(y.mean().repeat(x.max()+1), "--")
 plt.show()
 ```
 
-![Графік x та y](./matplotlib_basics_solomia/screenshots/xy.png)
+![Графік x та y](https://github.com/Kaena0/matplotlib/blob/main/screenshots/xy.png?raw=true)
 
 
 
@@ -90,7 +90,7 @@ plt.show()
 plt.hist(y)
 plt.show()
 ```
-![Гістограма](./matplotlib_basics_solomia/screenshots/histogram.png)
+![Гістограма](https://github.com/Kaena0/matplotlib/blob/main/screenshots/histogram.png?raw=true)
 
 
 ---
@@ -117,7 +117,7 @@ plt.legend()
 plt.show()
 ```
 
-![Візуалізація](./matplotlib_basics_solomia/screenshots/visualization.png)
+![Візуалізація](https://github.com/Kaena0/matplotlib/blob/main/screenshots/visualization.png?raw=true)
 
 
 
